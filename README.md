@@ -81,4 +81,66 @@ Exercícios e projetos do curso completo de Java e OO, UML, JDBC, JavaFX, Spring
 [Individual](https://github.com/jnorgini/heranca_e_polimorfismo-Java/blob/master/src/model/entities/Individual.java)
 [Tax](https://github.com/jnorgini/heranca_e_polimorfismo-Java/blob/master/src/model/entities/Tax.java)<br />
 
+## Tratamento de exceções:
+[01 - Custom exception](https://github.com/jnorgini/throw_exception-Java/blob/master/src/source/E1.java)
+[| Entity Class: Account](https://github.com/jnorgini/throw_exception-Java/blob/master/src/source/entities/Account.java)
+[| Exception class: BusinessException](https://github.com/jnorgini/throw_exception-Java/blob/master/src/source/exceptions/BusinessException.java)<br />
 
+## Projeto - Sistema jogo de xadrez:
+[Program](https://github.com/jnorgini/chess-system-java/blob/master/src/application/Program.java)
+[| UI](https://github.com/jnorgini/chess-system-java/blob/master/src/application/UI.java)<br />
+[Boardgame](https://github.com/jnorgini/chess-system-java/blob/master/src/boardgame/Board.java)
+[| BoardException](https://github.com/jnorgini/chess-system-java/blob/master/src/boardgame/BoardException.java)
+[| Piece ](https://github.com/jnorgini/chess-system-java/blob/master/src/boardgame/Piece.java)
+[| Position](https://github.com/jnorgini/chess-system-java/blob/master/src/boardgame/Position.java)<br />
+[Chess: ChessMatch](https://github.com/jnorgini/chess-system-java/blob/master/src/chess/ChessMatch.java)
+[| ChessException](https://github.com/jnorgini/chess-system-java/blob/master/src/chess/ChessException.java)
+[| ChessPiece](https://github.com/jnorgini/chess-system-java/blob/master/src/chess/ChessPiece.java)
+[| ChessPosition](https://github.com/jnorgini/chess-system-java/blob/master/src/chess/ChessPosition.java)
+[| Color](https://github.com/jnorgini/chess-system-java/blob/master/src/chess/Color.java)<br />
+[Pieces: Bishop](https://github.com/jnorgini/chess-system-java/blob/master/src/chess/pieces/Bishop.java)
+[| King](https://github.com/jnorgini/chess-system-java/blob/master/src/chess/pieces/King.java)
+[| Knight](https://github.com/jnorgini/chess-system-java/blob/master/src/chess/pieces/Knight.java)
+[| Pawn](https://github.com/jnorgini/chess-system-java/blob/master/src/chess/pieces/Pawn.java)
+[| Queen](https://github.com/jnorgini/chess-system-java/blob/master/src/chess/pieces/Queen.java)
+[| Rook](https://github.com/jnorgini/chess-system-java/blob/master/src/chess/pieces/Rook.java)<br />
+
+## Interfaces:
+[01 - Rental Service](https://github.com/jnorgini/Interfaces-Java/blob/master/src/interfaces/Aula1.java)
+[| Entities: CarRental](https://github.com/jnorgini/Interfaces-Java/blob/master/src/model/entities/CarRental.java)
+[Vehicle](https://github.com/jnorgini/Interfaces-Java/blob/master/src/model/entities/Vehicle.java)
+[| Service Classes: BrazilTaxService](https://github.com/jnorgini/Interfaces-Java/blob/master/src/model/services/BrazilTaxService.java)
+[RentalService](https://github.com/jnorgini/Interfaces-Java/blob/master/src/model/services/RentalService.java)<br />
+[02 - Comparable](https://github.com/jnorgini/Interfaces-Java/blob/master/src/interfaces/Comparable_aula.java)<br />
+[03 - DefaultMethods](https://github.com/jnorgini/Interfaces-Java/blob/master/src/interfaces/DefaultMethods.java)
+[| Service Classes: BrazilInterestService](https://github.com/jnorgini/Interfaces-Java/blob/master/src/model/services/BrazilInterestService.java)
+[InterestService](https://github.com/jnorgini/Interfaces-Java/blob/master/src/model/services/InterestService.java)<br />
+[04 - List file names](https://github.com/jnorgini/Interfaces-Java/blob/master/src/interfaces/Lista_arquivo_nomes.java)
+[| Entity Class: Employee](https://github.com/jnorgini/Interfaces-Java/blob/master/src/model/entities/Employee.java)<br />
+[05 - Contract Service](https://github.com/jnorgini/Interfaces-Java/blob/master/src/interfaces/Program.java)
+[| Entities: Contract](https://github.com/jnorgini/Interfaces-Java/blob/master/src/model/entities/Contract.java)
+[Installment](https://github.com/jnorgini/Interfaces-Java/blob/master/src/model/entities/Installment.java)
+[| Service Classes: ContractService](https://github.com/jnorgini/Interfaces-Java/blob/master/src/model/services/ContractService.java)
+[PaypalService](https://github.com/jnorgini/Interfaces-Java/blob/master/src/model/services/PaypalService.java)<br />
+[06 - Shape](https://github.com/jnorgini/Interfaces-Java/blob/master/src/interfaces/Program0.java)
+[| Entities: AbstractShape](https://github.com/jnorgini/Interfaces-Java/blob/master/src/model/entities/AbstractShape.java)
+[Circle](https://github.com/jnorgini/Interfaces-Java/blob/master/src/model/entities/Circle.java)
+[Rectangle](https://github.com/jnorgini/Interfaces-Java/blob/master/src/model/entities/Rectangle.java)
+[| Enum: Color](https://github.com/jnorgini/Interfaces-Java/blob/master/src/model/enums/Color.java)<br />
+[07 - Process documentation](https://github.com/jnorgini/Interfaces-Java/blob/master/src/interfaces/Program1.java)
+[| Devices: ComboDevice](https://github.com/jnorgini/Interfaces-Java/blob/master/src/model/devices/ComboDevice.java)
+[ConcretePrinter](https://github.com/jnorgini/Interfaces-Java/blob/master/src/model/devices/ConcretePrinter.java)
+[ConcreteScanner](https://github.com/jnorgini/Interfaces-Java/blob/master/src/model/devices/ConcreteScanner.java)<br />
+
+## Generics, Set, Map:
+[01 - LinkedHashSet](https://github.com/jnorgini/generics_set_map-Java/blob/master/src/generics_set_map/Aula6.java)<br />
+[02 - TreeSet](https://github.com/jnorgini/generics_set_map-Java/blob/master/src/generics_set_map/Aula6_parte_2.java)<br />
+[03 - HashSet](https://github.com/jnorgini/generics_set_map-Java/blob/master/src/generics_set_map/Aula7.java)<br />
+[04 - Product List](https://github.com/jnorgini/generics_set_map-Java/blob/master/src/generics_set_map/Aula8.java)
+[| Entity Class: Product](https://github.com/jnorgini/generics_set_map-Java/blob/master/src/entities/Product2.java)<br />
+[05 - Log](https://github.com/jnorgini/generics_set_map-Java/blob/master/src/generics_set_map/E1.java)
+[| Entity Class: LogEntry](https://github.com/jnorgini/generics_set_map-Java/blob/master/src/entities/LogEntry.java)<br />
+[06 - Total students](https://github.com/jnorgini/generics_set_map-Java/blob/master/src/generics_set_map/E2.java)<br />
+
+## Programação funcional e expressões lambda:
+[...]()
