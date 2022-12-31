@@ -147,7 +147,9 @@ Exercícios e projetos do curso completo de Java e OO, UML, JDBC, JavaFX, Spring
 [06 - Total students](https://github.com/jnorgini/generics_set_map-Java/blob/master/src/generics_set_map/E2.java)<br />
 
 ## Programação funcional e expressões lambda:
-[01 - AVG price of products from a .txt file list with names in descending order](https://github.com/jnorgini/program.-funcional_expressoes_lambda-Java/blob/master/src/application/E1.java)
+[01 - AVG product price](https://github.com/jnorgini/program.-funcional_expressoes_lambda-Java/blob/master/src/application/E1.java)
 [| Entity Class: Product](https://github.com/jnorgini/program.-funcional_expressoes_lambda-Java/blob/master/src/entities/Product.java)<br />
+[2 - AVG salary of employees](https://github.com/jnorgini/program.-funcional_expressoes_lambda-Java/blob/master/src/application/E2.java)
+[| Entity Class: Employee](https://github.com/jnorgini/program.-funcional_expressoes_lambda-Java/blob/master/src/entities/Employee.java)<br />
 
 [...]()
