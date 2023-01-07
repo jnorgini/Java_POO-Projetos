@@ -160,5 +160,5 @@ Exercícios e projetos do curso completo de Java e OO, UML, JDBC, JavaFX, Spring
 [02 - AVG salary of employees](https://github.com/jnorgini/program.-funcional_expressoes_lambda-Java/blob/master/src/application/E2.java)
 [| Entity Class: Employee](https://github.com/jnorgini/program.-funcional_expressoes_lambda-Java/blob/master/src/entities/Employee.java)<br />
 
-## Projeto JDBC com padrão DAO
+## Projeto JDBC com padrão DAO:
 [...]
