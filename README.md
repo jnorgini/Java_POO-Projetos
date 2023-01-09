@@ -161,4 +161,16 @@ Exercícios e projetos do curso completo de Java e OO, UML, JDBC, JavaFX, Spring
 [| Entity Class: Employee](https://github.com/jnorgini/program.-funcional_expressoes_lambda-Java/blob/master/src/entities/Employee.java)<br />
 
 ## Projeto JDBC com padrão DAO:
-[...]
+[Program1](https://github.com/jnorgini/dao-jdbc/blob/master/src/application/Program.java)
+[| Program2](https://github.com/jnorgini/dao-jdbc/blob/master/src/application/Program2.java)<br />
+[DB](https://github.com/jnorgini/dao-jdbc/blob/master/src/db/DB.java)
+[| DbException](https://github.com/jnorgini/dao-jdbc/blob/master/src/db/DbException.java)
+[| DbIntegrityException](https://github.com/jnorgini/dao-jdbc/blob/master/src/db/DbIntegrityException.java)<br />
+[Department](https://github.com/jnorgini/dao-jdbc/blob/master/src/model/entities/Department.java)
+[| Seller](https://github.com/jnorgini/dao-jdbc/blob/master/src/model/entities/Seller.java)<br />
+[DaoFactory](https://github.com/jnorgini/dao-jdbc/blob/master/src/model/dao/DaoFactory.java)
+[| DepartmentDao](https://github.com/jnorgini/dao-jdbc/blob/master/src/model/dao/DepartmentDao.java)
+[| SellerDao](https://github.com/jnorgini/dao-jdbc/blob/master/src/model/dao/SellerDao.java)<br />
+[DepartmentDaoJDBC](https://github.com/jnorgini/dao-jdbc/blob/master/src/model/dao/impl/DepartmentDaoJDBC.java)
+[| SellerDaoJDBC](https://github.com/jnorgini/dao-jdbc/blob/master/src/model/dao/impl/SellerDaoJDBC.java)<br />
+
