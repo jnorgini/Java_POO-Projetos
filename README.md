@@ -174,7 +174,7 @@ Exercícios e projetos do curso completo de Java e OO, UML, JDBC, JavaFX, Spring
 [DepartmentDaoJDBC](https://github.com/jnorgini/dao-jdbc/blob/master/src/model/dao/impl/DepartmentDaoJDBC.java)
 [| SellerDaoJDBC](https://github.com/jnorgini/dao-jdbc/blob/master/src/model/dao/impl/SellerDaoJDBC.java)<br />
 
-## Nivelamento: mapeamento objeto-relacional com JPA/Hibernate
+## Java EE - Mapeamento objeto-relacional com JPA/Hibernate
 
 [...]
 
