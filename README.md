@@ -160,7 +160,7 @@ Exercícios e projetos do curso completo de Java e OO, UML, JDBC, JavaFX, Spring
 [02 - AVG salary of employees](https://github.com/jnorgini/program.-funcional_expressoes_lambda-Java/blob/master/src/application/E2.java)
 [| Entity Class: Employee](https://github.com/jnorgini/program.-funcional_expressoes_lambda-Java/blob/master/src/entities/Employee.java)<br />
 
-## Projeto de banco de dados com JDBC padrão DAO:
+## Projeto - Banco de dados com JDBC padrão DAO:
 [Program1](https://github.com/jnorgini/dao-jdbc/blob/master/src/application/Program.java)
 [| Program2](https://github.com/jnorgini/dao-jdbc/blob/master/src/application/Program2.java)<br />
 [DB](https://github.com/jnorgini/dao-jdbc/blob/master/src/db/DB.java)
@@ -174,7 +174,7 @@ Exercícios e projetos do curso completo de Java e OO, UML, JDBC, JavaFX, Spring
 [DepartmentDaoJDBC](https://github.com/jnorgini/dao-jdbc/blob/master/src/model/dao/impl/DepartmentDaoJDBC.java)
 [| SellerDaoJDBC](https://github.com/jnorgini/dao-jdbc/blob/master/src/model/dao/impl/SellerDaoJDBC.java)<br />
 
-## Java EE - Mapeamento objeto-relacional com JPA/Hibernate
+## Projeto - Java EE - Mapeamento objeto-relacional com JPA/Hibernate
 
 [...]
 
