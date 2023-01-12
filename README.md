@@ -90,7 +90,7 @@ Exercícios e projetos do curso completo de Java e OO, UML, JDBC, JavaFX, Spring
 [| Entity Class: Account](https://github.com/jnorgini/throw_exception-Java/blob/master/src/source/entities/Account.java)
 [| Exception class: BusinessException](https://github.com/jnorgini/throw_exception-Java/blob/master/src/source/exceptions/BusinessException.java)<br />
 
-## Projeto - Sistema jogo de xadrez:
+## Projeto: Sistema jogo de xadrez
 [Program](https://github.com/jnorgini/chess-system-java/blob/master/src/application/Program.java)
 [| UI](https://github.com/jnorgini/chess-system-java/blob/master/src/application/UI.java)<br />
 [Boardgame](https://github.com/jnorgini/chess-system-java/blob/master/src/boardgame/Board.java)
@@ -160,7 +160,7 @@ Exercícios e projetos do curso completo de Java e OO, UML, JDBC, JavaFX, Spring
 [02 - AVG salary of employees](https://github.com/jnorgini/program.-funcional_expressoes_lambda-Java/blob/master/src/application/E2.java)
 [| Entity Class: Employee](https://github.com/jnorgini/program.-funcional_expressoes_lambda-Java/blob/master/src/entities/Employee.java)<br />
 
-## Projeto - Banco de dados com JDBC padrão DAO:
+## Projeto: Banco de dados com JDBC padrão DAO
 [Program1](https://github.com/jnorgini/dao-jdbc/blob/master/src/application/Program.java)
 [| Program2](https://github.com/jnorgini/dao-jdbc/blob/master/src/application/Program2.java)<br />
 [DB](https://github.com/jnorgini/dao-jdbc/blob/master/src/db/DB.java)
@@ -174,7 +174,10 @@ Exercícios e projetos do curso completo de Java e OO, UML, JDBC, JavaFX, Spring
 [DepartmentDaoJDBC](https://github.com/jnorgini/dao-jdbc/blob/master/src/model/dao/impl/DepartmentDaoJDBC.java)
 [| SellerDaoJDBC](https://github.com/jnorgini/dao-jdbc/blob/master/src/model/dao/impl/SellerDaoJDBC.java)<br />
 
-## Projeto - Java EE - Mapeamento objeto-relacional com JPA/Hibernate
+## Java EE - Mapeamento objeto-relacional com JPA/Hibernate
 [Aplicação - Programa](https://github.com/jnorgini/JPA-Hibernate/blob/master/src/main/java/aplicacao/Programa.java)<br />
 [Domínio - Entity Class Pessoa](https://github.com/jnorgini/JPA-Hibernate/blob/master/src/main/java/dominio/Pessoa.java)<br />
+
+## Projeto: Web services com Spring Boot e JPA/Hibernate
+[...]
 
