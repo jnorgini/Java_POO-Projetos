@@ -175,6 +175,6 @@ Exercícios e projetos do curso completo de Java e OO, UML, JDBC, JavaFX, Spring
 [| SellerDaoJDBC](https://github.com/jnorgini/dao-jdbc/blob/master/src/model/dao/impl/SellerDaoJDBC.java)<br />
 
 ## Projeto - Java EE - Mapeamento objeto-relacional com JPA/Hibernate
-
-[...]
+[Aplicação - Programa](https://github.com/jnorgini/JPA-Hibernate/blob/master/src/main/java/aplicacao/Programa.java)<br />
+[Domínio - Entity Class Pessoa](https://github.com/jnorgini/JPA-Hibernate/blob/master/src/main/java/dominio/Pessoa.java)<br />
 
