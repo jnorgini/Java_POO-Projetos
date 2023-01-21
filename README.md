@@ -179,6 +179,9 @@ Exercícios e projetos do curso completo de Java e OO, UML, JDBC, JavaFX, Spring
 [Domínio - Entity Class Pessoa](https://github.com/jnorgini/JPA-Hibernate/blob/master/src/main/java/dominio/Pessoa.java)<br />
 
 ## Projeto: Web services com Spring Boot e JPA/Hibernate
+
+<h4> Especificações e passo-a-passo de execução do projeto no <a href="https://github.com/jnorgini/workshop-springboot-jpa">Repositório</a> <br /> </h4> 
+
 [Application](https://github.com/jnorgini/workshop-springboot-jpa/blob/main/src/main/java/com/educandoweb/course/CourseApplication.java)
 [| TestConfig](https://github.com/jnorgini/workshop-springboot-jpa/blob/main/src/main/java/com/educandoweb/course/config/TestConfig.java)<br />
 [Category](https://github.com/jnorgini/workshop-springboot-jpa/blob/main/src/main/java/com/educandoweb/course/entities/Category.java)
