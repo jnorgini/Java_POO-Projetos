@@ -210,6 +210,6 @@ Exercícios e projetos do curso completo de Java e OO, UML, JDBC, JavaFX, Spring
 [DatabaseException](https://github.com/jnorgini/workshop-springboot-jpa/blob/main/src/main/java/com/educandoweb/course/services/exceptions/DatabaseException.java)
 [| ResourceNotFoundException](https://github.com/jnorgini/workshop-springboot-jpa/blob/main/src/main/java/com/educandoweb/course/services/exceptions/ResourceNotFoundException.java)<br />
 
-## Projeto: API RESTful com Spring Boot e banco MongoDB(web services + noSQL)
+## Projeto: API RESTful com Spring Boot e banco MongoDB (web services + noSQL)
 [...]
 
