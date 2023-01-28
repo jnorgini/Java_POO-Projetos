@@ -180,35 +180,7 @@ Exercícios e projetos do curso completo de Java e OO, UML, JDBC, JavaFX, Spring
 
 ## Projeto: Web services com Spring Boot e JPA/Hibernate
 
-<h4> Especificações e passo-a-passo de execução do projeto no <a href="https://github.com/jnorgini/workshop-springboot-jpa">Repositório</a> <br /> </h4> 
-
-[Application](https://github.com/jnorgini/workshop-springboot-jpa/blob/main/src/main/java/com/educandoweb/course/CourseApplication.java)
-[| TestConfig](https://github.com/jnorgini/workshop-springboot-jpa/blob/main/src/main/java/com/educandoweb/course/config/TestConfig.java)<br />
-[Category](https://github.com/jnorgini/workshop-springboot-jpa/blob/main/src/main/java/com/educandoweb/course/entities/Category.java)
-[| Order](https://github.com/jnorgini/workshop-springboot-jpa/blob/main/src/main/java/com/educandoweb/course/entities/Order.java)
-[| OrderItem](https://github.com/jnorgini/workshop-springboot-jpa/blob/main/src/main/java/com/educandoweb/course/entities/OrderItem.java)
-[| Payment](https://github.com/jnorgini/workshop-springboot-jpa/blob/main/src/main/java/com/educandoweb/course/entities/Payment.java)
-[| Product](https://github.com/jnorgini/workshop-springboot-jpa/blob/main/src/main/java/com/educandoweb/course/entities/Product.java)
-[| User](https://github.com/jnorgini/workshop-springboot-jpa/blob/main/src/main/java/com/educandoweb/course/entities/User.java)
-[| Enum](https://github.com/jnorgini/workshop-springboot-jpa/blob/main/src/main/java/com/educandoweb/course/entities/enums/OrderStatus.java)
-[| PK](https://github.com/jnorgini/workshop-springboot-jpa/blob/main/src/main/java/com/educandoweb/course/entities/pk/OrderItemPK.java)<br />
-[CategoryRepository](https://github.com/jnorgini/workshop-springboot-jpa/blob/main/src/main/java/com/educandoweb/course/repositories/CategoryRepository.java)
-[| OrderItemRepository](https://github.com/jnorgini/workshop-springboot-jpa/blob/main/src/main/java/com/educandoweb/course/repositories/OrderItemRepository.java)
-[| OrderRepository](https://github.com/jnorgini/workshop-springboot-jpa/blob/main/src/main/java/com/educandoweb/course/repositories/OrderRepository.java)
-[| ProductRepository](https://github.com/jnorgini/workshop-springboot-jpa/blob/main/src/main/java/com/educandoweb/course/repositories/ProductRepository.java)
-[| UserRepository](https://github.com/jnorgini/workshop-springboot-jpa/blob/main/src/main/java/com/educandoweb/course/repositories/UserRepository.java)<br />
-[CategoryResource](https://github.com/jnorgini/workshop-springboot-jpa/blob/main/src/main/java/com/educandoweb/course/resources/CategoryResource.java)
-[| OrderResource](https://github.com/jnorgini/workshop-springboot-jpa/blob/main/src/main/java/com/educandoweb/course/resources/OrderResource.java)
-[| ProductResource](https://github.com/jnorgini/workshop-springboot-jpa/blob/main/src/main/java/com/educandoweb/course/resources/ProductResource.java)
-[| UserResource](https://github.com/jnorgini/workshop-springboot-jpa/blob/main/src/main/java/com/educandoweb/course/resources/UserResource.java)<br />
-[ResourceExceptionHandler](https://github.com/jnorgini/workshop-springboot-jpa/blob/main/src/main/java/com/educandoweb/course/resources/exceptions/ResourceExceptionHandler.java)
-[| StandardError](https://github.com/jnorgini/workshop-springboot-jpa/blob/main/src/main/java/com/educandoweb/course/resources/exceptions/StandardError.java)<br />
-[CategoryService](https://github.com/jnorgini/workshop-springboot-jpa/blob/main/src/main/java/com/educandoweb/course/services/CategoryService.java)
-[| OrderService](https://github.com/jnorgini/workshop-springboot-jpa/blob/main/src/main/java/com/educandoweb/course/services/OrderService.java)
-[| ProductService](https://github.com/jnorgini/workshop-springboot-jpa/blob/main/src/main/java/com/educandoweb/course/services/ProductService.java)
-[| UserService](https://github.com/jnorgini/workshop-springboot-jpa/blob/main/src/main/java/com/educandoweb/course/services/UserService.java)<br />
-[DatabaseException](https://github.com/jnorgini/workshop-springboot-jpa/blob/main/src/main/java/com/educandoweb/course/services/exceptions/DatabaseException.java)
-[| ResourceNotFoundException](https://github.com/jnorgini/workshop-springboot-jpa/blob/main/src/main/java/com/educandoweb/course/services/exceptions/ResourceNotFoundException.java)<br />
+<h4> Especificações e passo-a-passo de execução do projeto no <a href="https://github.com/jnorgini/workshop-springboot-jpa">Repositório</a> <br /> </h4>
 
 ## Projeto: API RESTful com Spring Boot e banco MongoDB (web services + noSQL)
 [...]
